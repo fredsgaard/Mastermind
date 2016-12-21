@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mastermind", "Master Mind\Master Mind.vcxproj", "{891FA235-B939-4A60-8B43-02A93E3ACD38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{00F728DE-34A3-4AF0-8B6E-C9B24C9A36A6}"
+	ProjectSection(SolutionItems) = preProject
+		Master Mind.vsd = Master Mind.vsd
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MastermindUnittest", "MastermindUnittest\MastermindUnittest.vcxproj", "{15391768-43FB-4A92-84DD-AC33789287BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{891FA235-B939-4A60-8B43-02A93E3ACD38}.Debug|Win32.ActiveCfg = Debug|Win32
+		{891FA235-B939-4A60-8B43-02A93E3ACD38}.Debug|Win32.Build.0 = Debug|Win32
+		{891FA235-B939-4A60-8B43-02A93E3ACD38}.Release|Win32.ActiveCfg = Release|Win32
+		{891FA235-B939-4A60-8B43-02A93E3ACD38}.Release|Win32.Build.0 = Release|Win32
+		{15391768-43FB-4A92-84DD-AC33789287BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15391768-43FB-4A92-84DD-AC33789287BF}.Debug|Win32.Build.0 = Debug|Win32
+		{15391768-43FB-4A92-84DD-AC33789287BF}.Release|Win32.ActiveCfg = Release|Win32
+		{15391768-43FB-4A92-84DD-AC33789287BF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
